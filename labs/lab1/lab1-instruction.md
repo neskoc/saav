@@ -2,7 +2,7 @@
 
 Train a CNN classifier with PyTorch for traffic sign recognition based on "model_cnn", with four convolutional layers plus one fully-connected layer in Section "Some example networks" (or you may choose to design your own architecture, or start from a pretrained network, e.g., LeNet, AlexNet or ResNet, and perform transfer learning/fine-tuning):
 
-1. [Chapter 3 - Adversarial examples, solving the inner maximization](https://adversarial-ml-tutorial.org/adversarial_examples/)
+1. [Chapter 3 - Adversarial examples, solving the inner maximization](https://adversarial-ml-tutorial.org/adversarial_examples/)  
 [The German Traffic Sign Recognition Benchmark (GTSRB)  dataset](https://benchmark.ini.rub.de/gtsrb_news.html) (download GTSRB_Final_Training_Images.zip and GTSRB_Final_Test_Images.zip).
 Report the accuracy of your classifier on the testset.  
 (Tips: Consider converting the color images to grayscale to reduce training time. Then you only need to change the number of classes. Since model_cnn is quite small, do not expect high accuracy, and accuracy is not part of the grading criteria. The purpose of this assignment is to make you familiar with the basics, not to ask you to spend a lot of time tuning hyperparameters. )  
