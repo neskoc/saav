@@ -1,4 +1,4 @@
-# Adversarial Attacks on Traffic Sign Classification
+# Lab1: Adversarial Attacks on Traffic Sign Classification
 
 Train a CNN classifier with PyTorch for traffic sign recognition based on "model_cnn", with four convolutional layers plus one fully-connected layer in Section "Some example networks" (or you may choose to design your own architecture, or start from a pretrained network, e.g., LeNet, AlexNet or ResNet, and perform transfer learning/fine-tuning):
 
